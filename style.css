@@ -5,14 +5,10 @@ h3 {
   font-family: initial;
 }
 #viz1{
-  width: 80%;
+  width: 45%;
   height: 300px;
 }
-#viz2{
-  width: 80%;
+#viz2, #viz3{
+  width: 45%;
   height: 500px;
-}
-#viz3{
-  width: 80%;
-  height: 400px;
 }
